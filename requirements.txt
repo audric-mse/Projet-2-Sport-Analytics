@@ -1,0 +1,3 @@
+# L'ETL n'utilise que la bibliothèque standard de Python (testé avec Python 3.12).
+# Seul pytest est nécessaire pour lancer les tests.
+pytest

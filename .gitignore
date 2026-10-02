@@ -1,0 +1,6 @@
+# données brutes (1,1 Go) : à retélécharger avec etl/download.py
+data/raw/
+# base générée par l'ETL (environ 290 Mo)
+data/*.db
+__pycache__/
+.pytest_cache/
